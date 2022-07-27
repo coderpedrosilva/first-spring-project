@@ -1,4 +1,4 @@
-# first-project-spring
+# first-spring-project
 
 ### Visão geral do projeto
 
